@@ -1,6 +1,6 @@
-./target
-./debug
-./release
-./Cargo.lock
-
-
+target
+debug
+release
+Cargo.lock
+CACHEDIR.TAG
+code_analyzer
